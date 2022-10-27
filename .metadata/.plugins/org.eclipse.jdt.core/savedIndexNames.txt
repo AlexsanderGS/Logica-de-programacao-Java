@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\Lógica de Programação Java - Udemy\Estrutura Sequencial\Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+3914806023.index
+4031513158.index
+3884759861.index
+1865797976.index
+1766151164.index
+507667306.index
+4146185823.index
